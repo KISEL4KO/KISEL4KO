@@ -1,52 +1,15 @@
-# Привет, я Роман (KISEL4KO) 👋
+<div align="center">
 
-**Студент Московского политехнического университета**  
-**Цель:** стажёр / junior Python-разработчик
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3500&pause=400&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Привет%2C+я+Роман;Python+dev+%7C+Algorithms+%7C+Student" />
 
-Начинающий разработчик с сильной алгоритмической базой и опытом создания веб-сервисов, работы с API, парсинга и лёгких ML-решений.  
-Пишу поддерживаемый код, люблю разбираться во внутренней инфраструктуре и участвовать в реальных проектах.
+<pre>
+🎓 Московский политех
+🐍 Python • Flask • REST API • ML
+☕ Java / C++ (базово)
+🏆 Школа 21 • Codeforces
+</pre>
 
----
+[![Codeforces](https://img.shields.io/badge/Codeforces-KISEL4KO-1f8acb?style=flat-square)](https://codeforces.com/profile/KISEL4KO)
+[![GitHub](https://img.shields.io/badge/GitHub-KISEL4KO-181717?style=flat-square&logo=github)](https://github.com/KISEL4KO)
 
-### 🛠️ Tech Stack
-
-**Основной язык**
-- Python (Flask, Requests, BeautifulSoup, asyncio, pandas, scikit-learn, TensorFlow Lite)
-
-**Также умею**
-- Java (Android + TensorFlow Lite)
-- C++ (базовый уровень, олимпиадное программирование)
-
-**Инструменты**
-- Git / GitHub
-- REST API
-
-**Алгоритмы**
-- Codeforces: [KISEL4KO](https://codeforces.com/profile/KISEL4KO)
-
----
-
-### 🚀 Избранные проекты
-
-| Проект | Описание | Стек | Ссылка |
-|--------|----------|------|--------|
-| **RacingWebSite** | Агрегатор автоспортивных данных (результаты, расписание, новости F1). Сбор и маршрутизация данных с внешних источников | Python, Flask, BeautifulSoup, Requests | [→](https://github.com/KISEL4KO/RacingWebSite) |
-| **vinnid** | Android-приложение с локальным запуском нейросети (Edge Computing). Компьютерное зрение на устройстве без постоянной связи с облаком | Java, TensorFlow Lite | [→](https://github.com/KISEL4KO/vinnid) |
-
----
-### 📚 Образование и курсы
-
-- Московский политехнический университет (сейчас)
-- Университет Иннополис — «Приручи искусственный интеллект на Python» (148 ак. часов, 2024)
-- Яндекс — Курс олимпиадного программирования (параллель B, 2025)
-- Университет Синергия / «Код будущего» — Разработка на Java (152 ак. часа)
----
-### 🏆 Достижения
-
-- Победитель всероссийского конкурса «Школа 21» (проект Сбера) → путёвка в «Артек» (2024)
-- Участник 39-й Международной конференции CEI (Мехико, 2025)
-- Призёр окружной олимпиады по физике, участник «Кенгуру»
-
----
-
-Открыт к стажировкам и интересным задачам в Python!
+</div>
