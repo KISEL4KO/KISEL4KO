@@ -8,7 +8,7 @@
 Learning Python development and IT
 
 <pre>
-🐍 Python • Flask • REST API • Parsing • ML
+🐍 Python • Flask • REST API • Parsing • ML • Backend
 ☕ Java / C++ (Beginner level)
 🏆 Codeforces
 </pre>
